@@ -4,7 +4,7 @@
 	"Depth": 0,
 	"SplitIntoChunks": 1,
 	"PrintImages": true,
-	"CommonHeadersOnly": false,
+	"CommonHeadersOnly": true,
 	"PublicHeadersOnly": true,
 	"SpecificHeadersOnly": true,
 	"UseProcesses": 0,
